@@ -1,1 +1,1 @@
-# data-engineering-zoomcamp_fa
+# data-engineering-zoomcamp follow along from Datatalks.club
